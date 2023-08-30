@@ -1,4 +1,4 @@
-package Aula01;
+package Aula02;
 
 public class Pessoa {
 	
