@@ -1,4 +1,4 @@
-package exemploLista;
+package aula03;
 
 public class Figura {
 	
