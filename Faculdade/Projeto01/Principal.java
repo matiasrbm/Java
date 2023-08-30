@@ -1,4 +1,4 @@
-package aula2;
+package aula01;
 
 public class Principal {
 
@@ -12,9 +12,9 @@ public class Principal {
 		p1.responderChamada(1);
 		
 		Pessoa p2 = new Pessoa();
-		p2.nome = "Vitor Assis";
-		p2.ra = "22304737";
-		p2.idade = 23;
+		p2.nome = "Rafael Matias";
+		p2.ra = "22303772";
+		p2.idade = 18;
 		System.out.println(p2.nome);
 		p2.responderChamada(0);
 	}
