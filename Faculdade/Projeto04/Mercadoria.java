@@ -1,4 +1,4 @@
-package project_04;
+package aula04;
 
 public class Mercadoria {
 
