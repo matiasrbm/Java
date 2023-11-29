@@ -26,6 +26,14 @@ public class Principal {
 		Figura f5 = new Figura();
 		f5.nome = "Heptágono";
 		f5.lados = 3;
+
+		Insertion Sort(Ordenação por inserção) - Selection Sort(Ordenação por seleção) - Merge sort
+		Binária
+		Pilhas
+		Errado
+		1,2,3
+		Push E Pop
+		Homogêneos e de acesso aleatório por intermédio de índices
 		
 		ArrayList<Figura> listaFiguras = new ArrayList<Figura>();
 		
@@ -42,6 +50,7 @@ public class Principal {
 						+listaFiguras.size());
 		
 		for (int i = 0; i < listaFiguras.size(); i++) {
+
 			System.out.println(listaFiguras.get(i).nome);
 			System.out.println(listaFiguras.get(i).lados);
 			
@@ -49,3 +58,4 @@ public class Principal {
 	}
 
 }
+
